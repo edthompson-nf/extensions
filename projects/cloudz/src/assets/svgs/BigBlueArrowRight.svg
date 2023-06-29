@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg id='Layer_1' style='enable-background:new 0 0 139 67.3;' version='1.1' viewBox='0 0 139 67.3'
+     x='0px'
+     xml:space='preserve' xmlns='http://www.w3.org/2000/svg' y='0px'>
+<style type='text/css'>
+	.st0 {
+    fill: url(#SVGID_1_);
+  }
+
+  .st1 {
+    fill: none;
+    stroke: #006CFF;
+    stroke-width: 3.5127;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+
+  .st2 {
+    fill: url(#SVGID_2_);
+    stroke: #006CFF;
+    stroke-width: 3.5127;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+
+  .st3 {
+    fill: url(#SVGID_3_);
+    stroke: #006CFF;
+    stroke-width: 3.5127;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+
+  .st4 {
+    fill: url(#SVGID_4_);
+    stroke: #006CFF;
+    stroke-width: 3.5127;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+
+  .st5 {
+    fill: url(#SVGID_5_);
+    stroke: #006CFF;
+    stroke-width: 3.5127;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+
+  .st6 {
+    fill: url(#SVGID_6_);
+    stroke: #006CFF;
+    stroke-width: 3.5127;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+</style>
+  <linearGradient gradientTransform='matrix(0.7071 0.7071 -0.7071 0.7071 -180.4907 167.2511)'
+                  gradientUnits='userSpaceOnUse' id='SVGID_1_' x1='69.7214' x2='138.9717' y1='-259.3113'
+                  y2='-328.322'>
+	<stop offset='0' style='stop-color:#FFFFFF;stop-opacity:0'/>
+    <stop offset='1' style='stop-color:#006CFF'/>
+</linearGradient>
+  <polyline class='st0' points='55.6,48.3 91.5,48.3 105.2,48.3 105.2,65.2 110,60.4 137.1,33.3 110,6.2 105.2,1.4 105.2,18.3
+	91.6,18.3 36.6,18.3 '/>
+  <g>
+	<polyline class='st1' points='55.7,48.7 91.6,48.7 105.3,48.7 105.3,65.5 110.1,60.7 137.2,33.6 110.1,6.5 105.3,1.8 105.3,18.6
+		91.8,18.6 36.8,18.6 	'/>
+
+    <linearGradient gradientTransform='matrix(0.7071 0.7071 -0.7071 0.7071 -180.4907 167.2511)'
+                    gradientUnits='userSpaceOnUse' id='SVGID_2_' x1='70.0816' x2='139.3319'
+                    y1='-259.1424' y2='-328.1531'>
+		<stop offset='0' style='stop-color:#FFFFFF'/>
+      <stop offset='1' style='stop-color:#648293'/>
+	</linearGradient>
+    <line class='st2' x1='67.8' x2='24.2' y1='33.6' y2='33.6'/>
+
+    <linearGradient gradientTransform='matrix(0.7071 0.7071 -0.7071 0.7071 -180.4907 167.2511)'
+                    gradientUnits='userSpaceOnUse' id='SVGID_3_' x1='80.7418' x2='149.9921'
+                    y1='-248.4452' y2='-317.4559'>
+		<stop offset='0' style='stop-color:#FFFFFF'/>
+      <stop offset='1' style='stop-color:#648293'/>
+	</linearGradient>
+    <line class='st3' x1='42.2' x2='31.3' y1='48.7' y2='48.7'/>
+
+    <linearGradient gradientTransform='matrix(0.7071 0.7071 -0.7071 0.7071 -180.4907 167.2511)'
+                    gradientUnits='userSpaceOnUse' id='SVGID_4_' x1='70.1751' x2='139.4254'
+                    y1='-259.0486' y2='-328.0593'>
+		<stop offset='0' style='stop-color:#FFFFFF'/>
+      <stop offset='1' style='stop-color:#648293'/>
+	</linearGradient>
+    <line class='st4' x1='8.6' x2='1.8' y1='33.6' y2='33.6'/>
+
+    <linearGradient gradientTransform='matrix(0.7071 0.7071 -0.7071 0.7071 -180.4907 167.2511)'
+                    gradientUnits='userSpaceOnUse' id='SVGID_5_' x1='147.5202' x2='263.5567'
+                    y1='-336.5846' y2='-452.2195'>
+		<stop offset='0' style='stop-color:#FFFFFF'/>
+      <stop offset='1' style='stop-color:#648293'/>
+	</linearGradient>
+    <line class='st5' x1='88.6' x2='77.1' y1='33.4' y2='33.4'/>
+
+    <linearGradient gradientTransform='matrix(0.7071 0.7071 -0.7071 0.7071 -180.4907 167.2511)'
+                    gradientUnits='userSpaceOnUse' id='SVGID_6_' x1='119.8815' x2='155.0064'
+                    y1='-309.1426' y2='-344.1459'>
+		<stop offset='0' style='stop-color:#FFFFFF'/>
+      <stop offset='1' style='stop-color:#648293'/>
+	</linearGradient>
+    <line class='st6' x1='100.7' x2='97.2' y1='33.4' y2='33.4'/>
+</g>
+</svg>

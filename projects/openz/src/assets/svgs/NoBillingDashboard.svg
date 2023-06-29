@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg id='Layer_1' style='enable-background:new 0 0 72 72;' version='1.1' viewBox='0 0 72 72'
+     x='0px'
+     xml:space='preserve' xmlns='http://www.w3.org/2000/svg' y='0px'>
+<style type='text/css'>
+	.st0 {
+    fill: #FFFFFF;
+  }
+
+  .st1 {
+    fill: #D9DFE3;
+  }
+
+  .st2 {
+    fill: none;
+    stroke: #648293;
+    stroke-width: 1.4;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+</style>
+  <polygon class='st0' points='60.9,45.1 60.9,6.7 7.2,6.7 7.2,50.2 37.9,50.2 37.9,65.5 66,65.5 66,45.1 '/>
+  <rect class='st1' height='5.1' width='28.1' x='37.9' y='50.2'/>
+  <polygon class='st1' points='60.9,17 7.2,50.2 37.9,50.2 37.9,45.1 60.9,45.1 '/>
+  <g>
+	<polyline class='st2' points='32.8,50.2 7.2,50.2 7.2,6.7 60.9,6.7 60.9,40 	'/>
+    <line class='st2' x1='7.2' x2='60.9' y1='17' y2='17'/>
+    <line class='st2' x1='12.3' x2='14.9' y1='11.8' y2='11.8'/>
+    <line class='st2' x1='20' x2='22.6' y1='11.8' y2='11.8'/>
+    <line class='st2' x1='27.7' x2='30.2' y1='11.8' y2='11.8'/>
+    <g>
+		<rect class='st2' height='20.5' width='28.1' x='37.9' y='45.1'/>
+      <rect class='st2' height='5.1' width='28.1' x='37.9' y='50.2'/>
+      <line class='st2' x1='43' x2='45.6' y1='60.4' y2='60.4'/>
+      <line class='st2' x1='50.7' x2='55.8' y1='60.4' y2='60.4'/>
+	</g>
+    <g>
+		<polyline class='st2' points='37.9,27.2 29.6,27.2 27.7,29.7 29.6,32.3 36,32.3 37.9,34.8 36,37.4 27.7,37.4 		'/>
+      <line class='st2' x1='32.8' x2='32.8' y1='27.2' y2='24.6'/>
+      <line class='st2' x1='32.8' x2='32.8' y1='40' y2='37.4'/>
+	</g>
+</g>
+</svg>

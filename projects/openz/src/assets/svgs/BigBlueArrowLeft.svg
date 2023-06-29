@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg id='Layer_1' style='enable-background:new 0 0 139 67.3;' version='1.1' viewBox='0 0 139 67.3'
+     x='0px'
+     xml:space='preserve' xmlns='http://www.w3.org/2000/svg' y='0px'>
+<style type='text/css'>
+	.st0 {
+    fill: url(#SVGID_1_);
+  }
+
+  .st1 {
+    fill: none;
+    stroke: #006CFF;
+    stroke-width: 3.5127;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+</style>
+  <linearGradient gradientTransform='matrix(-0.7071 0.7071 -0.7071 -0.7071 1573.7362 695.2526)'
+                  gradientUnits='userSpaceOnUse' id='SVGID_1_' x1='583.2698' x2='652.52' y1='1519.551'
+                  y2='1588.5616'>
+	<stop offset='0' style='stop-color:#FFFFFF;stop-opacity:0'/>
+    <stop offset='1' style='stop-color:#006CFF'/>
+</linearGradient>
+  <polyline class='st0' points='102.4,18.3 47.4,18.3 33.8,18.3 33.8,1.4 29,6.2 1.9,33.3 29,60.4 33.8,65.2 33.8,48.3 47.5,48.3
+	83.4,48.3 '/>
+  <g>
+	<polyline class='st1' points='102.2,18.6 47.2,18.6 33.7,18.6 33.7,1.8 28.9,6.5 1.8,33.6 28.9,60.7 33.7,65.5 33.7,48.7
+		47.4,48.7 83.3,48.7 	'/>
+    <line class='st1' x1='114.8' x2='71.2' y1='33.6' y2='33.6'/>
+    <line class='st1' x1='107.7' x2='96.8' y1='48.7' y2='48.7'/>
+    <line class='st1' x1='137.2' x2='130.4' y1='33.6' y2='33.6'/>
+    <line class='st1' x1='61.9' x2='50.4' y1='33.4' y2='33.4'/>
+    <line class='st1' x1='41.8' x2='38.3' y1='33.4' y2='33.4'/>
+</g>
+</svg>

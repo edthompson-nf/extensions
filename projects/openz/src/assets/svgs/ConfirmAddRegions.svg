@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg id='Layer_1' style='enable-background:new 0 0 72 72;' version='1.1' viewBox='0 0 72 72'
+     x='0px'
+     xml:space='preserve' xmlns='http://www.w3.org/2000/svg' y='0px'>
+<style type='text/css'>
+	.st0 {
+    fill: #FFFFFF;
+  }
+
+  .st1 {
+    fill: #E6ECED;
+  }
+
+  .st2 {
+    fill: none;
+    stroke: #658292;
+    stroke-width: 1.2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+</style>
+  <g id='XMLID_23_'>
+	<g id='XMLID_38_'>
+		<path class='st0' d='M62.6,5.6H7.7c-0.2,0-0.3,0.1-0.3,0.3v61.3h55.5V5.9C62.9,5.7,62.8,5.6,62.6,5.6z'
+          id='XMLID_131_'/>
+    <path class='st1' d='M62.6,5.6H7.7c-0.2,0-0.3,0-0.3,0v8.2h55.5V5.6C62.9,5.6,62.8,5.6,62.6,5.6z' id='XMLID_113_'/>
+
+    <ellipse class='st1' cx='34.7' cy='40.8' id='XMLID_105_'
+             rx='11.8' ry='11.8' transform='matrix(0.7071 -0.7071 0.7071 0.7071 -18.6554 36.5046)'/>
+    <path class='st2' d='M62.8,59.6V5.2c0-0.2-0.1-0.3-0.3-0.3H7.6C7.4,4.9,7.3,5,7.3,5.2v62h44.8' id='XMLID_2_'/>
+    <line class='st2' id='XMLID_93_' x1='62.8' x2='7.4' y1='13.8' y2='13.8'/>
+    <line class='st2' id='XMLID_91_' x1='13.1' x2='11.1' y1='9.5' y2='9.5'/>
+    <line class='st2' id='XMLID_88_' x1='17.5' x2='19.5' y1='9.5' y2='9.5'/>
+    <line class='st2' id='XMLID_87_' x1='25.9' x2='23.9' y1='9.5' y2='9.5'/>
+    <path class='st2' d='M62.3,64.8l-8.2-8.2c-0.1-0.1-0.2-0.1-0.3,0l-3.2,3.2c-0.1,0.1-0.1,0.2,0,0.3l7.4,7.2
+			c0.1,0.1,2,0.4,2.1,0.3l2.3-2.5C62.4,65.1,62.4,64.9,62.3,64.8z' id='XMLID_81_'/>
+    <line class='st2' id='XMLID_80_' x1='48.7' x2='51.5' y1='54.8' y2='57.6'/>
+
+    <ellipse class='st2' cx='34.5' cy='40.7'
+             id='XMLID_79_' rx='20.1' ry='20.1'
+             transform='matrix(1.053684e-02 -0.9999 0.9999 1.053684e-02 -6.6407 74.7832)'/>
+    <g id='XMLID_39_'>
+			<path class='st2' d='M34.5,25.2c-8.6,0-15.5,7-15.5,15.5c0,8.6,7,15.5,15.5,15.5c8.6,0,15.5-7,15.5-15.5
+				C50,32.2,43.1,25.2,34.5,25.2z' id='XMLID_76_'/>
+      <path class='st2' d='M39.9,55.3c2.4-3.8,3.9-9,3.9-14.6c0-5.6-1.4-10.7-3.8-14.5' id='XMLID_73_'/>
+      <path class='st2' d='M29.4,26.2c-2.4,3.8-3.8,8.9-3.8,14.5c0,5.7,1.5,10.8,3.9,14.6' id='XMLID_66_'/>
+      <line class='st2' id='XMLID_64_' x1='34.5' x2='34.5' y1='56.3' y2='25.2'/>
+      <line class='st2' id='XMLID_43_' x1='18.9' x2='50' y1='40.8' y2='40.8'/>
+      <line class='st2' id='XMLID_42_' x1='48.2' x2='21.3' y1='33.4' y2='33.4'/>
+      <line class='st2' id='XMLID_41_' x1='20.8' x2='47.9' y1='48.1' y2='48.1'/>
+		</g>
+	</g>
+</g>
+</svg>

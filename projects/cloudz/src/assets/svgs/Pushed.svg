@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg id='Layer_1' style='enable-background:new 0 0 23.5 23.5;' version='1.1' viewBox='0 0 23.5 23.5'
+     x='0px'
+     xml:space='preserve' xmlns='http://www.w3.org/2000/svg' y='0px'>
+<style type='text/css'>
+	.st0 {
+    fill: #0563FA;
+  }
+
+  .st1 {
+    fill: #00DC5A;
+  }
+</style>
+  <g>
+	<path class='st0' d='M18.9,23.5H4.6c-2.5,0-4.6-2.1-4.6-4.6V4.6C0,2.1,2.1,0,4.6,0h14.3c2.5,0,4.6,2.1,4.6,4.6v14.3
+		C23.5,21.4,21.4,23.5,18.9,23.5z M4.6,2C3.1,2,2,3.1,2,4.6v14.3c0,1.5,1.1,2.6,2.6,2.6h14.3c1.5,0,2.6-1.1,2.6-2.6V4.6
+		c0-1.5-1.1-2.6-2.6-2.6H4.6z'/>
+</g>
+  <g id='Duotone'>
+	<g>
+		<path class='st1'
+          d='M11.8,17.9c-0.6,0-1-0.4-1-1V6.6c0-0.6,0.4-1,1-1s1,0.4,1,1v10.2C12.8,17.4,12.3,17.9,11.8,17.9z'/>
+	</g>
+    <g>
+		<path class='st1' d='M17,12.6c-0.3,0-0.5-0.1-0.7-0.3l-4.4-4.5l-4.4,4.4c-0.4,0.4-1,0.4-1.4,0s-0.4-1,0-1.4l5-5.1
+			c0.4-0.4,1-0.4,1.4,0l5.1,5.1c0.4,0.4,0.4,1,0,1.4C17.5,12.5,17.2,12.6,17,12.6z'/>
+	</g>
+</g>
+</svg>

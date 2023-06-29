@@ -1,0 +1,135 @@
+<div class="modal box full open">
+  <div class="sized large">
+    <ng-container #beforetitleext></ng-container>
+    <div class="title adding">
+      <span data-i18n="Create">Create</span>
+      <span data-i18n="EdgeService"> Edge Service</span>
+    </div>
+    <div class="subtitle adding">
+      <span data-i18n="AddNew">Add New</span>
+      <span data-i18n="EdgeService"> Edge Service</span>
+      <span data-i18n="ByComplete"> by completing this form</span>
+    </div>
+    <div class="title editing">
+      <span data-i18n="Edit">Edit </span>
+      <span data-i18n="EdgeService"> Edge Service</span>
+    </div>
+    <div class="subtitle editing">
+      <span data-i18n="Change">Change</span>
+      <span data-i18n="EdgeService"> Edge Service</span>
+      <span data-i18n="Details"> Details</span>
+    </div>
+
+    <div class="split">
+      <div>
+        <label for="Name" data-i18n="Name">Name</label>
+        <input id="Name" type="text" maxlength="500" data-i18n="EnterName"
+               data-restrict="empty"/>
+        <label for="Roles" data-i18n="RoleAttributes">Roles</label>
+        <div id="Roles" class="multiselector">
+          <div class="searchSelector"><input id="RolesSearch" autocomplete="new-password" type="text" maxlength="500"
+                                             data-i18n="TypeToFilter"
+                                             placeholder="Type to filter or enter to add value">
+            <div id="RolesSelected" class="tagArea"></div>
+          </div>
+          <div id="RolesSuggest" data-index="0" class="suggests">
+            <div class="tag tagButton" data-id="brwzr"><span class="label">brwzr</span></div>
+            <div class="tag tagButton" data-id="demo"><span class="label">demo</span></div>
+            <div class="tag tagButton" data-id="nf_tutorial"><span class="label">nf_tutorial</span></div>
+            <div class="tag tagButton" data-id="svc-1"><span class="label">svc-1</span></div>
+          </div>
+        </div>
+
+        <label for="Strategy" data-i18n="TerminatorStrategy">Terminator Strategy</label>
+        <select id="Strategy" [value]="data.terminatorStrategy">
+          <option value="" data-i18n="SelectStrategy" default>Select a Strategy....</option>
+          <option value="smartrouting" data-i18n="SmartRouting">Smart Routing</option>
+          <option value="weighted" data-i18n="Weighted">Weighted</option>
+          <option value="random" data-i18n="Random">Random</option>
+          <option value="ha" data-i18n="HighAvailability">High Availability</option>
+        </select>
+        <div id="IsEncryptionRequired" class="forminfo" style="display: none"></div>
+        <div class="grid checkLabel">
+          <div id="EncryptionRequired" class=" toggle on">
+            <div class="switch"></div>
+            <div class="label"></div>
+          </div>
+          <div class="toggleLabel" data-i18n="RequireEncryption">Require Encryption</div>
+        </div>
+        <div id="TagArea" data-tagarea="service"></div>
+        <div id="TagExtended"></div>
+      </div>
+      <div>
+        <div class="darkened" data-i18n="Configurations">Configurations</div>
+        <div class="configBox">
+          <label for="ConfigType" data-i18n="ConfigurationTypes">Configiuration Types</label>
+          <select id="ConfigType"></select>
+          <div class="configs">
+            <label for="Configs" data-i18n="PreDefinedConfigurations">Pre-defined Configurations</label>
+            <select id="Configs"></select>
+            <div id="OnOffButton" class="onoff jsonButton configsForm" style="display:none">{{
+                  <span data-i18n="JSON">JSON</span> }}
+            </div>
+            <label for="ConfigName" class="configsForm" style="display:none" data-i18n="Name">Name</label>
+            <input id="ConfigName" class="configsForm" type="text" data-i18n="EnterNameConfig" maxlength="100"
+                   style="display:none"/>
+            <div id="ConfigForm" style="display:none"></div>
+            <label for="JSONView" class="jsonV" data-i18n="JSONConfiguration">JSON Configuration</label>
+            <textarea id="JSONView"></textarea>
+            <div id="ButtonArea" class="buttons" style="display: none;">
+              <div></div>
+              <div id="AddConfigButton" class="minibutton" data-i18n="AttachService">Attach Service</div>
+            </div>
+          </div>
+        </div>
+        <div id="ConfigList" class="lightBox"></div>
+        <div class="darkened" data-i18n="Terminators">Terminators</div>
+        <div class="configBox">
+          <label for="Routers" data-i18n="Router">Routers</label>
+          <select id="Routers"></select>
+          <div class="routerArea">
+            <label for="BindingType" data-i18n="Binding">Binding</label>
+            <select id="BindingType">
+              <option value="" data-i18n="SelectBinding">Select Binding</option>
+              <option value="transport" data-i18n="Transport">Transport</option>
+              <option value="udp" data-i18n="Udp">UDP</option>
+              <option value="edge" data-i18n="Edge">Edge</option>
+              <option value="0" data-i18n="Other">Other</option>
+            </select>
+            <label for="CustomBinding" class="customBind" style="display: none;" data-i18n="CustomBinding">Custom
+              Binding</label>
+            <input id="CustomBinding" class="customBind" type="text" maxlength="100" style="display: none;"/>
+            <div class="grid three">
+              <div>
+                <label for="TerminatorProtocol" data-i18n="Protocol">Protocol</label>
+                <select id="TerminatorProtocol">
+                  <option value="tcp" data-i18n="Tcp">TCP</option>
+                  <option value="udp" data-i18n="Udp">UDP</option>
+                </select>
+              </div>
+              <div>
+                <label for="TerminatorHost" data-i18n="Host">Host</label>
+                <input id="TerminatorHost" data-i18n="HostExample" maxlength="200"/>
+              </div>
+              <div>
+                <label for="TerminatorPort" data-i18n="Port">Port</label>
+                <input id="TerminatorPort" data-i18n="PortExample" maxlength="10" value="80"/>
+              </div>
+            </div>
+            <div class="buttons">
+              <div></div>
+              <div id="AddTerminatorButton" class="minibutton" data-i18n="Add">Add</div>
+            </div>
+          </div>
+        </div>
+        <div id="TerminatorList" class="lightBox"></div>
+      </div>
+    </div>
+    <ng-container #beforebuttonsext></ng-container>
+    <div class="buttons">
+      <div class="linkButton closer" data-i18n="Oops">Oops, No get me out of here</div>
+      <div id="SaveButton" class="button" data-defined="save" data-i18n="Save">Save</div>
+    </div>
+    <ng-container #afterbuttonsext></ng-container>
+  </div>
+</div>

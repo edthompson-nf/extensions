@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg id='Layer_1' style='enable-background:new 0 0 75 75;' version='1.1' viewBox='0 0 75 75'
+     x='0px'
+     xml:space='preserve' xmlns='http://www.w3.org/2000/svg' y='0px'>
+<style type='text/css'>
+	.st0 {
+    fill: #036CFF;
+  }
+
+  .st1 {
+    fill: none;
+    stroke: #036CFF;
+    stroke-width: 1.2379;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+  }
+
+  .st2 {
+    fill: #1078FF;
+  }
+</style>
+  <g id='Support_Wheel'>
+	<g>
+		<path class='st0' d='M37,72.1c-19.1,0-34.6-15.5-34.6-34.6S17.9,2.9,37,2.9s34.6,15.5,34.6,34.6S56.1,72.1,37,72.1z M37,6.3
+			c-17.2,0-31.2,14-31.2,31.2s14,31.2,31.2,31.2s31.2-14,31.2-31.2S54.2,6.3,37,6.3z'/>
+	</g>
+    <g>
+		<path class='st1' d='M6,47.8'/>
+	</g>
+    <g>
+		<path class='st1' d='M28,6.5'/>
+	</g>
+    <g>
+		<path class='st1' d='M59.6,60.3'/>
+	</g>
+    <g>
+		<path class='st1' d='M15.5,61.7'/>
+	</g>
+</g>
+  <g id='Duotone'>
+	<g>
+		<path class='st2' d='M45,45.2c-0.4,0-0.7-0.1-1-0.4L30.1,31.4c-0.3-0.3-0.5-0.8-0.4-1.3c0.1-0.5,0.4-0.8,0.8-1l23.6-9.7
+			c0.5-0.2,1.1-0.1,1.5,0.3c0.4,0.4,0.5,1,0.3,1.5l-9.7,23.1c-0.2,0.4-0.6,0.7-1,0.8C45.1,45.2,45,45.2,45,45.2z M33.6,30.9
+			l10.9,10.5l7.6-18.1L33.6,30.9z'/>
+	</g>
+    <g>
+		<path class='st2' d='M21.3,54.9c-0.4,0-0.7-0.1-1-0.4c-0.4-0.4-0.5-1-0.3-1.5l9.7-23.1c0.2-0.4,0.6-0.7,1-0.8
+			c0.4-0.1,0.9,0,1.2,0.4l13.9,13.3c0.3,0.3,0.5,0.8,0.4,1.3c-0.1,0.5-0.4,0.8-0.8,1l-23.6,9.7C21.7,54.9,21.5,54.9,21.3,54.9z
+			 M31.6,32.8l-7.6,18.1l18.5-7.6L31.6,32.8z'/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,26 @@
+.modal.box.full.open,
+.modal.box.full .sized.large {
+  background-color:whitesmoke;
+  border-color:red;
+  border-width: 3px;
+  margin: 3rem;
+  width: 90%;
+  border-radius: 16px;
+}
+.modal {
+   box-shadow: 0 20px 30px -16px #000;
+ }
+.sized.large {
+  position:relative;
+  width: 90%;
+
+}
+input, select {
+  background-color: white !important;
+}
+.toggle .label {
+  margin-top: 0;
+}
+.modal .buttons {
+  padding-bottom: 4rem;
+}
